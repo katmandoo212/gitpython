@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 1,
+    "python.linting.pylintEnabled":true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "python.foratting.provider": "black",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#d1202094"
+    }
+}
+    
